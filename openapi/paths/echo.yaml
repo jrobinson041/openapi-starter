@@ -2,13 +2,13 @@ post:
   tags:
     - Echo
   summary: Echo test
-  description: Receive the exact message you've sent
+  description: Receive the message you've sent
   operationId: echo
   security:
     - api_key: []
     - basic_auth: []
   responses:
-    '200':
+    "200":
       description: OK
       headers:
         X-Rate-Limit:
@@ -31,7 +31,7 @@ post:
         text/csv:
           schema:
             type: string
-    '400': 
+    "400":
       description: Unauthorized
   requestBody:
     content:
