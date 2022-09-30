@@ -23,8 +23,8 @@ features.openapi:
       backgroundColor: "#111111"
     rightPanel:
       backgroundColor: "#222222"
-      panelBackgroundColor: "#111111"
-      panelControlsBackgroundColor: "#38A169"
+      panelBackgroundColor: "#000000"
+      panelControlsBackgroundColor: "#111111"
     shape:
       borderRadius: "0px"
     typography:
