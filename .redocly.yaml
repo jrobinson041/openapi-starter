@@ -32,8 +32,6 @@ features.openapi:
       activeBgColor: "#222222"
       activeTextColor: "#68D391"
       textColor: "#FFFFFF"
-      spacing:
-        paddingVertical: "20px"
     typography:
       fontFamily: "AkkuratLLWeb-Regular"
       code:
