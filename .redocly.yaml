@@ -27,10 +27,10 @@ features.openapi:
       panelControlsBackgroundColor: "#111111"
     shape:
       borderRadius: "0"
-    # sidebar:
-    #   backgroundColor: "#000000"
-    #   activeBgColor: "#111111"
-    #   activeTextColor: "#68D391"
+    sidebar:
+      #   backgroundColor: "#000000"
+      #   activeBgColor: "#111111"
+      activeTextColor: "#38A169"
     #   textColor: "#FFFFFF"
     typography:
       fontFamily: "AkkuratLLWeb-Regular"
