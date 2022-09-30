@@ -28,8 +28,8 @@ features.openapi:
     shape:
       borderRadius: "0"
     sidebar:
-      backgroundColor: "#111111"
-      activeBgColor: "#222222"
+      backgroundColor: "#000000"
+      activeBgColor: "#111111"
       activeTextColor: "#68D391"
       textColor: "#FFFFFF"
     typography:
