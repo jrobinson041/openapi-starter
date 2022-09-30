@@ -27,6 +27,8 @@ features.openapi:
       panelControlsBackgroundColor: "#111111"
     shape:
       borderRadius: "0"
+    spacing:
+      unit: 12
     typography:
       fontFamily: "AkkuratLLWeb-Regular"
       code:
