@@ -21,7 +21,7 @@ features.openapi:
         main: "#48BB78"
         dark: "#2F855A"
       http:
-        get: "#48BB78"
+        get: "#38A169"
     logo:
       gutter: "20px"
     fab:
