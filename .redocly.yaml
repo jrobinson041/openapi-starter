@@ -28,10 +28,9 @@ features.openapi:
     shape:
       borderRadius: "0"
     sidebar:
-      #   backgroundColor: "#000000"
       activeBgColor: "#E5E5E5"
       activeTextColor: "#38A169"
-    #   textColor: "#FFFFFF"
+      fontFamily: "AkkuratMonoLLWeb-Regular"
     typography:
       fontFamily: "AkkuratLLWeb-Regular"
       code:
