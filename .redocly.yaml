@@ -33,7 +33,7 @@ features.openapi:
         fontFamily: "AkkuratMonoLLWeb-Regular"
       headings:
         fontFamily: "AkkuratMonoLLWeb-Regular"
-        fontWeight: "light"
+        fontWeight: "100"
   generateCodeSamples:
     languages: # Array of language config objects; indicates in which languages to generate code samples.
       - lang: curl
