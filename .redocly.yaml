@@ -27,8 +27,13 @@ features.openapi:
       panelControlsBackgroundColor: "#111111"
     shape:
       borderRadius: "0"
-    spacing:
-      unit: 12
+    sidebar:
+      backgroundColor: "#111111"
+      activeBgColor: "#222222"
+      activeTextColor: "#68D391"
+      textColor: "#FFFFFF"
+      spacing:
+        paddingVertical: "20px"
     typography:
       fontFamily: "AkkuratLLWeb-Regular"
       code:
