@@ -18,6 +18,9 @@ features.openapi:
         main: "#222222"
     logo:
       gutter: "20px"
+    fab:
+      color: "#FFFFFF"
+      backgroundColor: "#111111"
     rightPanel:
       backgroundColor: "#222222"
     shape:
