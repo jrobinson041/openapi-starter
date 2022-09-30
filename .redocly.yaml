@@ -22,7 +22,7 @@ features.openapi:
       color: "#FFFFFF"
       backgroundColor: "#111111"
     rightPanel:
-      backgroundColor: "#222222"
+      backgroundColor: "#F5F5F5"
       panelBackgroundColor: "#000000"
       panelControlsBackgroundColor: "#111111"
     shape:
